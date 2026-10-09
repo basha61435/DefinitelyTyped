@@ -1,8 +1,8 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: DEMO TEST iFLOW
-Bundle-SymbolicName: DEMO_TEST_iFLOW; singleton:=true
-Bundle-Version: 1.0.2
+Bundle-Name: Sync Test Iflow
+Bundle-SymbolicName: Sync_Test_Iflow; singleton:=true
+Bundle-Version: 1.0.0
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
@@ -28,8 +28,6 @@ Import-Package: com.sap.esb.application.services.cxf.interceptor,com.sap
  el.spi,com.sap.esb.webservice.audit.log,com.sap.esb.camel.endpoint.conf
  igurator.api,com.sap.esb.camel.jdbc.idempotency.reorg,javax.sql,org.apa
  che.camel.processor.idempotent.jdbc,org.osgi.service.blueprint
-Origin-Bundle-Name: DEMO TEST iFLOW
-Origin-Bundle-SymbolicName: DEMO_TEST_iFLOW
-Origin-Bundle-Version: 1.0.1
-Origin-ModifiedDate: 1790765049762
+Origin-Bundle-Name: Sync Test Iflow
+Origin-Bundle-SymbolicName: Sync_Test_Iflow
 
